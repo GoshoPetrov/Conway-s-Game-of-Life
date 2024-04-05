@@ -1,0 +1,18 @@
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.csproj.AssemblyReference.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.AssemblyInfo.cs
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\Conwat's Game of Life.exe
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\Conwat's Game of Life.deps.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\Conwat's Game of Life.runtimeconfig.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\Conwat's Game of Life.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\Conwat's Game of Life.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\refint\Conwat's Game of Life.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\Conwat's Game of Life.genruntimeconfig.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\obj\Debug\net6.0\ref\Conwat's Game of Life.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\pulsar.txt
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\gosper-glider-gun.txt
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Conwat's Game of Life\Conwat's Game of Life\bin\Debug\net6.0\living-forever.txt
