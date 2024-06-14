@@ -1,0 +1,15 @@
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\bin\Debug\net6.0\Reflections.exe
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\bin\Debug\net6.0\Reflections.deps.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\bin\Debug\net6.0\Reflections.runtimeconfig.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\bin\Debug\net6.0\Reflections.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\bin\Debug\net6.0\Reflections.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.csproj.AssemblyReference.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.AssemblyInfo.cs
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\refint\Reflections.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\Reflections.genruntimeconfig.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Reflections\Reflections\obj\Debug\net6.0\ref\Reflections.dll

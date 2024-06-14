@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Lines", "Even Lines\Even Lines.csproj", "{76B90882-57D8-4DAD-985F-2DFEBC908A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B90882-57D8-4DAD-985F-2DFEBC908A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B90882-57D8-4DAD-985F-2DFEBC908A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B90882-57D8-4DAD-985F-2DFEBC908A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B90882-57D8-4DAD-985F-2DFEBC908A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B0B541F-ABCD-40AC-AD90-490EB1B2AF6E}
+	EndGlobalSection
+EndGlobal

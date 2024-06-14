@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Opinion Poll2/1.0.0": {
+        "runtime": {
+          "Opinion Poll2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opinion Poll2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

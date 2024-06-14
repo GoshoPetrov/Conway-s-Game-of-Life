@@ -1,0 +1,5 @@
+﻿john 500
+ann 1000
+jerry 5
+hfh
+Putin 12313132

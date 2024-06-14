@@ -1,0 +1,15 @@
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\bin\Debug\net6.0\OddNums.exe
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\bin\Debug\net6.0\OddNums.deps.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\bin\Debug\net6.0\OddNums.runtimeconfig.json
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\bin\Debug\net6.0\OddNums.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\bin\Debug\net6.0\OddNums.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.csproj.AssemblyReference.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.AssemblyInfo.cs
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\refint\OddNums.dll
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\OddNums.genruntimeconfig.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\OddNums\OddNums\obj\Debug\net6.0\ref\OddNums.dll

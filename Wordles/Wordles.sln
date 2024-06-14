@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordles", "Wordles\Wordles.csproj", "{B77A25DC-F3A6-4E59-BF06-C82D172DB9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77A25DC-F3A6-4E59-BF06-C82D172DB9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77A25DC-F3A6-4E59-BF06-C82D172DB9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77A25DC-F3A6-4E59-BF06-C82D172DB9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77A25DC-F3A6-4E59-BF06-C82D172DB9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDEF1FE-9961-48AC-BC9F-AD83CEF285F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Civilization VI/1.0.0": {
+        "runtime": {
+          "Civilization VI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Civilization VI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -43,7 +43,7 @@ namespace Conwat_s_Game_of_Life
                     break;
 
                 case ConsoleKey.RightArrow:
-                    if(cursorPositionX + 2 < CurrentCellGeneration.GetLength(1) - 1)
+                    if(cursorPositionX + 2 < CurrentCellGeneration.GetLength(1  ) - 1)
                     {
                         Console.SetCursorPosition(cursorPositionX += 2, cursorPositionY);
                         //cellPositionY++;

@@ -1,0 +1,11 @@
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\bin\Debug\Wordles.exe.config
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\bin\Debug\Wordles.exe
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\bin\Debug\Wordles.pdb
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.csproj.AssemblyReference.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.csproj.SuggestedBindingRedirects.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.WordleForm.resources
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.Properties.Resources.resources
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.csproj.GenerateResource.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.csproj.CoreCompileInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.exe
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Wordles\Wordles\obj\Debug\Wordles.pdb

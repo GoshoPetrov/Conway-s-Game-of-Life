@@ -1,0 +1,5 @@
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Word Count\Word Count\obj\Debug\net6.0\Word Count.csproj.AssemblyReference.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Word Count\Word Count\obj\Debug\net6.0\Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Word Count\Word Count\obj\Debug\net6.0\Word Count.AssemblyInfoInputs.cache
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Word Count\Word Count\obj\Debug\net6.0\Word Count.AssemblyInfo.cs
+C:\Users\yan\Desktop\Conway-s-Game-of-Life\Word Count\Word Count\obj\Debug\net6.0\Word Count.csproj.CoreCompileInputs.cache

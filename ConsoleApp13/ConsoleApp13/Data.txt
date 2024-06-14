@@ -1,0 +1,7 @@
+﻿John 6 4
+Koko 3 3
+Koko 5 4
+Jane 5.5 5
+Lili 2 2
+Lili 4 4
+Lili 6 5
